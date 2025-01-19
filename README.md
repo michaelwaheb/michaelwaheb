@@ -3,7 +3,7 @@
 
 **michaelwaheb/michaelwaheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Remote Automaton test execution Guide:
+Remote Automaton test execution & CI/CD Guide:
 
 - Chrome/Headless/Selenium:
 https://stackoverflow.com/.../how-to-configure...
